@@ -1,3 +1,0 @@
-
-
-Crash course for Git
